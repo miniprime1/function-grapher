@@ -1,0 +1,9 @@
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\obj\Debug\Function_Grapher.Form1.resources
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\obj\Debug\Function_Grapher.Properties.Resources.resources
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\obj\Debug\Function-Grapher.csproj.GenerateResource.cache
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\obj\Debug\Function-Grapher.csproj.CoreCompileInputs.cache
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\bin\Debug\Function-Grapher.exe.config
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\bin\Debug\Function-Grapher.exe
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\bin\Debug\Function-Grapher.pdb
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\obj\Debug\Function-Grapher.exe
+C:\Users\남규민\source\repos\Function-Grapher\Function-Grapher\obj\Debug\Function-Grapher.pdb
